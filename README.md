@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**AIVIRX/Aivirx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I’m Maicol 👋
+I’m an iOS and macOS developer who designs and builds thoughtful native apps with Swift and SwiftUI. I enjoy making complex workflows feel simple—from visual interface design to app localization.
+📍 Based in New York City
+What I’m building
+- DockUI: Design for SwiftUI — A native visual editor for designing interfaces and generating SwiftUI code.
+- ASO Engine — App Store keyword research, metadata localization, and price comparison for Mac.
+- Metadata Translator: ASO — AI-powered localization for App Store listings.
+- String Catalog - Translate — AI-powered translations for Xcode String Catalogs.
+Tech Stack
+Swift · SwiftUI · UIKit · AppKit · Xcode · Supabase · RevenueCat · Git & GitHub
+Connect
+LinkedIn · Email
